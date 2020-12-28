@@ -1,0 +1,40 @@
+body {
+    font-family: 'sans-serif';
+    background: moccasin;
+}
+
+h2 {
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: 300;
+}
+
+.kotak-login {
+    width: 400px;
+    background: oldlace;
+    margin: 80px auto;
+    padding: 30px 20px;
+}
+
+label {
+    font-size: 11pt;
+    font-family: sans-serif;
+}
+
+.form-login {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    font-size: 11pt;
+    margin-bottom: 20px;
+}
+
+.tombol-login {
+    background: coral;
+    color: cornsilk;
+    font-size: 11pt;
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+}
